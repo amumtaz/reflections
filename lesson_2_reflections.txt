@@ -1,0 +1,9 @@
+Q) What happens when you initialize a repository? Why do you need to do it?
+Answer) You initialize to setup a new respository. You need to do it for GIT to start tracking your files.
+
+Q) How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Answer) Repositories contain meta data about histoy og the git repositories since it was created.
+Staging area: Intermediate area which contains files that are added into git but not yet committed to repository. Once we are ready to commit, it adds ALL the files in the staging area as a single commit and adds them to a repository.
+
+Working Directory: contains files that may be added to respository
