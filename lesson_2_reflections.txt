@@ -7,3 +7,9 @@ Answer) Repositories contain meta data about histoy og the git repositories sinc
 Staging area: Intermediate area which contains files that are added into git but not yet committed to repository. Once we are ready to commit, it adds ALL the files in the staging area as a single commit and adds them to a repository.
 
 Working Directory: contains files that may be added to respository
+
+Q) How can you use the staging area to make sure you have one commit per logical change?
+Answer) only add those files that you want commited to staging area
+
+Q) What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Answer) Branches are perfect to try different things with the original code, like create experimental features etc. They can eventually be merged or can grow separately
