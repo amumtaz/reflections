@@ -16,3 +16,9 @@ Answer) Branches are perfect to try different things with the original code, lik
 
 Q) How do the diagrams help you visualize the branch structure?
 Answer) Helps visualize what is going on within the code changes
+
+Q) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Answer) The code from both merges to form one single program. Diagrams are visual representation of tracking what was merged and what was discarded.
+
+Q) What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Answer) Branching and Merging will always be tricky. The best thing to do is set up rules in advance before branching and then subsequent merging. Also write detailed comments for each module so that conflicts will be easier to resolve manually later
