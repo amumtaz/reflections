@@ -5,10 +5,10 @@ Answer: Here are some possible scenarios:
 	b) When I want to send to a server for CI related activities
 	c) When I want to make a backup of my code online
 
-Why might you want to always pull changes manually rather than having Git
+Q) Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+Answer: There could be many reasons but for me, it seems logical that I only sync when I have dfinished my section of the work before pulling any new changes. Otherwise, I might encounter some conflicts with my existing work.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
